@@ -260,7 +260,7 @@ gap: 24px;
 }
 
 .list-item-about-us {
-
+width: calc((100% - 72px) / 4);
 }
 
 .list-title-about-us {
@@ -269,6 +269,7 @@ font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2E2F42;
+    margin-bottom: 8px;
 }
 
 .list-description-about-us {
@@ -387,6 +388,7 @@ font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2E2F42;
+    margin-bottom: 8px;
 }
 
 .list-description-portfolio {
